@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\elvin\source\repos\list\project25\source.cpp(62): warning C4715: find: значение возвращается не при всех путях выполнения
+  Project25.vcxproj -> C:\Users\Elvin\source\repos\list\Debug\Project25.exe
